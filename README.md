@@ -28,7 +28,7 @@ Final 15 minutes
 - Next session overview for practical & exercise
 - Record attendance & feedback
 
-### Session 2 - Day 3 03/12/25
+### Session 2 - Day 2 03/12/25
 #### APIs in practice
 - [14:00-14:15]: Introduction to session and recap
 - [14:15-14:40]: Exercise - working through API documentation
