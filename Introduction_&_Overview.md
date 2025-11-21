@@ -97,6 +97,13 @@ RDF (Resource Description Framework) File Format
 
 RDF is a standard model for representing structured information about resources on the web. It expresses data as triples: subject – predicate – object, which makes it easy to link and integrate data across different sources
 It is ideal for describing relationships between resources, e.g., authors, books, and institutions
+For example: 
+@prefix ex: <http://example.org/> .
+
+ex:Alice ex:hasAge 25 .
+ex:Alice ex:speaksLanguage ex:English .
+ex:Alice ex:speaksLanguage ex:Spanish .
+
 
 # Use cases for Research
 
@@ -201,4 +208,5 @@ Postman
 Swagger/OpenAPI
  – Tools for designing and documenting APIs
  - Swagger / OpenAPI: https://swagger.io/
+
 
