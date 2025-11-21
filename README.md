@@ -2,8 +2,7 @@
 
 This is a beginner level course on APIs and their use cases in research, covering details about what APIs are what they are used for, how to understand their application, types of APIs, limits and considerations and core topics related to API use.
 
-This course was developed by Somya Iqbal (siqbal5@ed.ac.uk), Alex Crest (email) & Aybuke Atalay (email).
-
+This course was developed by Somya Iqbal (siqbal5@ed.ac.uk), & Alex Crest (email).
 What to expect at the sessions
 - Demonstrations
 - Practical exercises
@@ -53,7 +52,7 @@ If you are part of the University of Edinburgh you can use [Noteable](https://no
 3.  Under 'Standard Python 3 Notebook' click 'Start'
 
 #### Upload the Notebook (and files) to Noteable (for Python users)
-1.  From the Noteable home page, click on the 'Git'>'Clone a Repository' button at the top bar of the screen and enter the link of this repo [LINK](LINK)
+1.  From the Noteable home page, click on the 'Git'>'Clone a Repository' button at the top bar of the screen and enter the link of this repo [API Repo Clone](https://github.com/DCS-training/APIs_For_Research_2025.git)
 2.  Now click on Clone
 3.  You now have imported the full repo and you can see all the material
 4.  Double-click on '01_API_Codebook_GettingStarted.ipynb' to open the Notebook
