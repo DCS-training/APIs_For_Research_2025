@@ -2,7 +2,7 @@
 
 This is a beginner level course on APIs and their use cases in research, covering details about what APIs are what they are used for, how to understand their application, types of APIs, limits and considerations and core topics related to API use.
 
-This course was developed by Somya Iqbal (siqbal5@ed.ac.uk), Alex Crest (email) & Aybuke Atalay (email).
+This course was developed by Somya Iqbal (siqbal5@ed.ac.uk), Alex Crest (ahiscock@ed.ac.uk) & Aybuke Atalay (email).
 
 What to expect at the sessions
 - Demonstrations
