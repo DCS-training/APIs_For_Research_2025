@@ -58,20 +58,20 @@ Status codes are explained further in Documentation (See below), and are useful 
 
 # Documentation
 The user manual for an Application Programming Interface. They provide clear, structured instructions that explain how to use an API. It typically includes:
-What the API does
-Available endpoints or functions
-Required inputs (parameters)
-What the outputs look like
+What the API does;
+Available endpoints or functions;
+Required inputs (parameters);
+What the outputs look like;
 Examples of requests and responses
 
 In practice:
-- Specific coding packages for R and Python that are built for accessing APIs have their own documentation that is worth reading
+- Specific coding packages for R and Python that are built for accessing APIs have their own documentation that is required reading
 E.g. tubeR - an R package for accessing the Youtube Data API; python-youtube - a Python Package for the same.
 
 
 # File formats 
 
-## JSON JavaScript Object Notation and XML Extensible Markup Language
+## JSON JavaScript Object Notation, XML Extensible Markup Language and RDF
 J-SON are a common file format for configuration, APIs, and data exchange
  {
   "name": "Alice",
@@ -91,6 +91,12 @@ A text-based format for storing and transporting structured data using custom ta
         <Language>Spanish</Language>
     </Languages>
 </Person>
+
+
+RDF (Resource Description Framework) File Format
+
+RDF is a standard model for representing structured information about resources on the web. It expresses data as triples: subject – predicate – object, which makes it easy to link and integrate data across different sources
+It is ideal for describing relationships between resources, e.g., authors, books, and institutions
 
 # Use cases for Research
 
@@ -195,3 +201,4 @@ Postman
 Swagger/OpenAPI
  – Tools for designing and documenting APIs
  - Swagger / OpenAPI: https://swagger.io/
+
