@@ -2,7 +2,8 @@
 
 This is a beginner level course on APIs and their use cases in research, covering details about what APIs are what they are used for, how to understand their application, types of APIs, limits and considerations and core topics related to API use.
 
-This course was developed by Somya Iqbal (siqbal5@ed.ac.uk), & Alex Crest (email).
+This course was developed by Somya Iqbal (siqbal5@ed.ac.uk), Alex Crest (s2442997@ed.ac.uk) & Aybuke Atalay (aybuke.atalay@ed.ac.uk).
+
 What to expect at the sessions
 - Demonstrations
 - Practical exercises
@@ -19,15 +20,15 @@ What to expect at the sessions
 - [14:30-14:40] - Talk & brief demo:  Web based access for APIs (searchable interface) a short demonstration
 - [14:40-15:00] -Talk: Understanding API documentation
 - [15:00-15:20] - Talk : Understanding file outputs with JSON/XML structures
-5-minute break 
-- [15:25-15:45] - Talk and demonstration: Understanding API user keys/authentication
+10-minute break 
+- [15:30-15:45] - Talk and demonstration: Understanding API user keys/authentication
 - Demonstration (Google APIs)
 Final 15 minutes
 - Discussion: Q & A  
 - Next session overview for practical & exercise
 - Record attendance & feedback
 
-### Session 2 - Day 2 03/12/25
+### Session 2 - Day 3 03/12/25
 #### APIs in practice
 - [14:00-14:15]: Introduction to session and recap
 - [14:15-14:40]: Exercise - working through API documentation
@@ -52,7 +53,7 @@ If you are part of the University of Edinburgh you can use [Noteable](https://no
 3.  Under 'Standard Python 3 Notebook' click 'Start'
 
 #### Upload the Notebook (and files) to Noteable (for Python users)
-1.  From the Noteable home page, click on the 'Git'>'Clone a Repository' button at the top bar of the screen and enter the link of this repo [API Repo Clone](https://github.com/DCS-training/APIs_For_Research_2025.git)
+1.  From the Noteable home page, click on the 'Git'>'Clone a Repository' button at the top bar of the screen and enter the link of this repo [LINK](LINK)
 2.  Now click on Clone
 3.  You now have imported the full repo and you can see all the material
 4.  Double-click on '01_API_Codebook_GettingStarted.ipynb' to open the Notebook
@@ -66,7 +67,7 @@ If you are part of the University of Edinburgh you can use [Noteable](https://no
 ### Introduction & Overview
 - This document details topics covered in talks and can be used as a learning resource
 ### Session slides
-- Slides from the course
+- Slides from the course - saved as PPT
 ### Notebooks_&_outputs
 This folder also includes a few other folders where we export files and outputs.
 - We will use the following notebook during the course practical in session 2
