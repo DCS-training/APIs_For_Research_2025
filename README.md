@@ -67,7 +67,7 @@ If you are part of the University of Edinburgh you can use [Noteable](https://no
 ### Introduction & Overview
 - This document details topics covered in talks and can be used as a learning resource
 ### Session slides
-- Slides from the course - saved as PPT
+- Slides from the course - PDF
 ### Notebooks_&_outputs
 This folder also includes a few other folders where we export files and outputs.
 - We will use the following notebook during the course practical in session 2
@@ -89,5 +89,6 @@ Where we want to convert curated sections of available data into CSV formats, we
 #### Copyright
 
 This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
+
 
 
