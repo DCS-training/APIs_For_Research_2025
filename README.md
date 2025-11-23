@@ -32,8 +32,8 @@ What to expect at the sessions
 #### APIs in practice
 - [14:00-14:15]: Introduction to session and recap
 - [14:15-14:40]: Exercise - working through API documentation
-- [14:40-14:55]: Feedback to group on exercise
-5-minute break  
+- [14:40-14:50]: Feedback to group on exercise
+> 10-minute break & setup
 - [15:00-15-45 +- 5 mins]: Practical with code book (accessing an API)
 - [15:45-15:50]: Discussion
 > Last 10 minutes 
@@ -89,6 +89,7 @@ Where we want to convert curated sections of available data into CSV formats, we
 #### Copyright
 
 This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
+
 
 
 
