@@ -53,7 +53,7 @@ If you are part of the University of Edinburgh you can use [Noteable](https://no
 3.  Under 'Standard Python 3 Notebook' click 'Start'
 
 #### Upload the Notebook (and files) to Noteable (for Python users)
-1.  From the Noteable home page, click on the 'Git'>'Clone a Repository' button at the top bar of the screen and enter the link of this repo [LINK](https://github.com/DCS-training/APIs_For_Research_2025.git)
+1.  From the Noteable home page, click on the 'Git'>'Clone a Repository' button at the top bar of the screen and enter the link of this repo (https://github.com/DCS-training/APIs_For_Research_2025.git)
 2.  Now click on Clone
 3.  You now have imported the full repo and you can see all the material
 4.  Double-click on '01_API_Codebook_GettingStarted.ipynb' to open the Notebook
@@ -89,4 +89,5 @@ Where we want to convert curated sections of available data into CSV formats, we
 #### Copyright
 
 This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
+
 
