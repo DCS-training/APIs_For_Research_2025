@@ -31,6 +31,7 @@ an endpoint for “objects” might return a list of objects in a collection). T
 APIs can be sorted into two categories: Web based, and software library based.
 
 ### API types
+> A non-exhaustive list 
 GraphQL: Client-defined queries for precise data retrieval.
 SPARQL: Query language for RDF and semantic web data.
 REST: Web service style using HTTP methods for resource access
@@ -40,7 +41,7 @@ REST: Web service style using HTTP methods for resource access
 1. Europeana: Online portal to Europe’s cultural heritage collections.
 2. Open Library: Open, editable catalog of books from around the world.
 3. ORCID: Persistent researcher ID system for scholarly identity.
-4. Crossref: Organization providing DOIs and metadata for scholarly works.
+4. Crossref: Organisation providing DOIs and metadata for scholarly works.
 5. Smithsonian: U.S. group of museums and research centers with vast collections.
 6. Victoria & Albert Museum: UK museum focused on art, design, and decorative arts.
 7. The British Library: National library of the UK with extensive global collections.
@@ -221,6 +222,7 @@ Postman
 Swagger/OpenAPI
  – Tools for designing and documenting APIs
  - [Swagger / OpenAPI](https://swagger.io/)
+
 
 
 
