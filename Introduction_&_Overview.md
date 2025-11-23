@@ -78,15 +78,19 @@ E.g. tubeR - an R package for accessing the Youtube Data API; python-youtube - a
 
 ## JSON JavaScript Object Notation, XML Extensible Markup Language and RDF
 J-SON are a common file format for configuration, APIs, and data exchange
- {
+
+```json
+{
   "name": "Alice",
   "age": 25,
   "languages": ["English", "Spanish"]
 }
+```
+
 
 XML is a text based file format 
 A text-based format for storing and transporting structured data using custom tags. It’s both human-readable and machine-readable, and is commonly used in web services, configuration files, and data exchange.
-
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <Person>
     <Name>Alice</Name>
@@ -96,6 +100,7 @@ A text-based format for storing and transporting structured data using custom ta
         <Language>Spanish</Language>
     </Languages>
 </Person>
+```
 
 
 RDF (Resource Description Framework) File Format
@@ -103,11 +108,14 @@ RDF (Resource Description Framework) File Format
 RDF is a standard model for representing structured information about resources on the web. It expresses data as triples: subject – predicate – object, which makes it easy to link and integrate data across different sources
 It is ideal for describing relationships between resources, e.g., authors, books, and institutions
 For example: 
+
+```turtle
 @prefix ex: <http://example.org/> .
 
 ex:Alice ex:hasAge 25 .
 ex:Alice ex:speaksLanguage ex:English .
 ex:Alice ex:speaksLanguage ex:Spanish .
+```
 
 
 # Use cases for Research
@@ -148,15 +156,15 @@ API Documentation
 
 GraphQL Docs
  – Official guide to GraphQL queries.
- - GraphQL: https://graphql.org/learn
+ - [GraphQL](https://graphql.org/learn)
 
 SPARQL Tutorial
  – Learn querying RDF datasets.
- - [SPARQL:](https://www.w3.org/TR/rdf-sparql-query/)
+ - [SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
 
 REST Guide
  – Principles and best practices for REST APIs.
- - [REST:](https://restfulapi.net)
+ - [REST](https://restfulapi.net)
 
 Digital Libraries & Collections
 
@@ -166,11 +174,11 @@ Europeana Collections
 
 Open Library
  – Free, editable catalog of books.
- - [Open Library:](https://openlibrary.org)
+ - [Open Library](https://openlibrary.org)
 
 Smithsonian Open Access
  – Access images & metadata from Smithsonian museums.
- - [Smithsonian Open Access:](https://www.si.edu/openaccess)
+ - [Smithsonian Open Access](https://www.si.edu/openaccess)
 
 V&A Museum API
  – V&A museum collection data.
@@ -184,21 +192,21 @@ British Library Digital Collections
 
 ORCID
  – Persistent researcher identifiers.
- - [ORCID:](https://orcid.org/)
+ - [ORCID](https://orcid.org/)
 
 CrossRef
  – Metadata and DOI registry for scholarly works.
- - [CrossRef:](https://www.crossref.org/)
+ - [CrossRef](https://www.crossref.org/)
 
 Standards & Frameworks
 
 IIIF
  – Standardized APIs for high-quality images.
- - [IIIF:](https://iiif.io/)
+ - [IIIF](https://iiif.io/)
 
 JSON Guide
  – Overview of JSON structure and usage.
- - [JSON:](https://www.json.org/json-en.html)
+ - [JSON](https://www.json.org/json-en.html)
 
 XML Guide
  – Reference for Extensible Markup Language.
@@ -208,11 +216,12 @@ XML Guide
 
 Postman
  – API testing and development tool.
- - [Postman:](https://www.postman.com/)
+ - [Postman](https://www.postman.com/)
 
 Swagger/OpenAPI
  – Tools for designing and documenting APIs
- - [Swagger / OpenAPI:](https://swagger.io/)
+ - [Swagger / OpenAPI](https://swagger.io/)
+
 
 
 
