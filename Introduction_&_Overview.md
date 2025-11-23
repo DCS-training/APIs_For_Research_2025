@@ -6,6 +6,11 @@
 - [Web APIs & Software libraries](##web_apis_&_software_library_apis)
 - [API types](##api_types)
 - [REST APIs](#rest-apis)
+- [Example APIs](####-example-apis)
+- [Documentation](#-documentation)
+- [File Formats](#-file-formats)
+- [Use cases for Research](#-use-cases-for-research)
+- [Further resources](#-resources)
 
 # APIs for Research
 
@@ -109,7 +114,7 @@ ex:Alice ex:speaksLanguage ex:Spanish .
 
 Public APIs are the most ideal and those issued by established institutions, public and private have formed incredible resources for researchers.
 
-- (GLAM) - there has been a steady rise in digitisation in the public sector and many organisation - national and regional - offer APIs and open digital resources.
+- (GLAM) - there has been a steady rise in digitisation in the public sector and many organisations - national and regional - offer APIs and open digital resources.
 - The NHS - The NHS offers multiple different APIs for aggregated healthcare data 
 - Government portals - UK regional and national governments offer API data on different socio-economic, climatic and other data through different organisations. 
 
@@ -129,7 +134,7 @@ Google Arts & Culture uses Smithsonian data to showcase artworks, artifacts, and
 
 # Limitations & considerations
 
-Rate limits - The amount of individual calls a program can make toan API. Researchers are often given a quota (e.g. 200 calls every minute) that limits access.
+Rate limits - The amount of individual calls a program can make to an API. Researchers are often given a quota (e.g. 200 calls every minute) that limits access.
 - Note in our workbook we will encounter some of these limits (ie.e the Met museum recommends no more than 80 requests per second)
 
 
@@ -147,66 +152,67 @@ GraphQL Docs
 
 SPARQL Tutorial
  – Learn querying RDF datasets.
- - SPARQL: https://www.w3.org/TR/rdf-sparql-query/
+ - [SPARQL:](https://www.w3.org/TR/rdf-sparql-query/)
 
 REST Guide
  – Principles and best practices for REST APIs.
- - REST: https://restfulapi.net
+ - [REST:](https://restfulapi.net)
 
 Digital Libraries & Collections
 
 Europeana Collections
  – Europe’s cultural heritage portal.
- - Europeana Collections: https://www.europeana.eu/en
+ - [Europeana Collections:](https://www.europeana.eu/en)
 
 Open Library
  – Free, editable catalog of books.
- - Open Library: https://openlibrary.org
+ - [Open Library:](https://openlibrary.org)
 
 Smithsonian Open Access
  – Access images & metadata from Smithsonian museums.
- - Smithsonian Open Access: https://www.si.edu/openaccess
+ - [Smithsonian Open Access:](https://www.si.edu/openaccess)
 
 V&A Museum API
  – V&A museum collection data.
- - V&A Museum API: https://www.vam.ac.uk/info/open-data
+ - [V&A Museum API:](https://www.vam.ac.uk/info/open-data)
 
 British Library Digital Collections
  – Digitized books, manuscripts, and images.
- - British Library Digital Collections: https://www.bl.uk/collection-guides/digital-collections
+ - [British Library Digital Collections:](https://www.bl.uk/collection-guides/digital-collections)
 
 Research Tools
 
 ORCID
  – Persistent researcher identifiers.
- - ORCID: https://orcid.org/
+ - [ORCID:](https://orcid.org/)
 
 CrossRef
  – Metadata and DOI registry for scholarly works.
- - CrossRef: https://www.crossref.org/
+ - [CrossRef:](https://www.crossref.org/)
 
 Standards & Frameworks
 
 IIIF
  – Standardized APIs for high-quality images.
- - IIIF: https://iiif.io/
+ - [IIIF:](https://iiif.io/)
 
 JSON Guide
  – Overview of JSON structure and usage.
- - JSON: https://www.json.org/json-en.html
+ - [JSON:](https://www.json.org/json-en.html)
 
 XML Guide
  – Reference for Extensible Markup Language.
- - XML: https://www.w3.org/XML/
+ - [XML:](https://www.w3.org/XML/)
 
 Developer Tools
 
 Postman
  – API testing and development tool.
- - Postman: https://www.postman.com/
+ - [Postman:](https://www.postman.com/)
 
 Swagger/OpenAPI
  – Tools for designing and documenting APIs
- - Swagger / OpenAPI: https://swagger.io/
+ - [Swagger / OpenAPI:](https://swagger.io/)
+
 
 
