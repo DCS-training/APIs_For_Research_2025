@@ -55,9 +55,9 @@ REST (Representational State Transfer) is a popular architectural style for web 
 ### Status codes
 Can spell trouble or success. Status codes when working with HTTPS based API requests let you know what the status of a given request is. Here are some examples:
 
-200 - OKAY
-404 - Not found
-403 - Forbidden
+- 200 - OKAY
+- 404 - Not found
+- 403 - Forbidden
 
 Status codes are explained further in Documentation (See below), and are useful to quote for crowdsourced troubleshooting.
 
@@ -180,7 +180,7 @@ British Library Digital Collections
  – Digitized books, manuscripts, and images.
  - [British Library Digital Collections:](https://www.bl.uk/collection-guides/digital-collections)
 
-Research Tools
+## Research Tools
 
 ORCID
  – Persistent researcher identifiers.
@@ -204,7 +204,7 @@ XML Guide
  – Reference for Extensible Markup Language.
  - [XML:](https://www.w3.org/XML/)
 
-Developer Tools
+## Developer Tools
 
 Postman
  – API testing and development tool.
@@ -213,6 +213,7 @@ Postman
 Swagger/OpenAPI
  – Tools for designing and documenting APIs
  - [Swagger / OpenAPI:](https://swagger.io/)
+
 
 
 
