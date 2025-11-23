@@ -1,0 +1,2 @@
+Image Data README
+This folder contains image outputs from section 2 of the codebook where we specify some specific objects, related metadata and want to collect images for all of those entries where available.
