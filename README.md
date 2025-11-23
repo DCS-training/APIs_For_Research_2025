@@ -28,7 +28,7 @@ What to expect at the sessions
 - Next session overview for practical & exercise
 - Record attendance & feedback
 
-### Session 2 - Day 3 03/12/25
+### Session 2 - Day 2 03/12/25
 #### APIs in practice
 - [14:00-14:15]: Introduction to session and recap
 - [14:15-14:40]: Exercise - working through API documentation
@@ -89,6 +89,7 @@ Where we want to convert curated sections of available data into CSV formats, we
 #### Copyright
 
 This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
+
 
 
 
