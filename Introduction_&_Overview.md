@@ -48,7 +48,7 @@ REST: Web service style using HTTP methods for resource access
 
 
 ### Other useful things to know
-A standardised framework for delivering high-quality images and metadata, allowing museums, libraries, and archives to share, compare, and display digital images using common APIs
+- IIIF: A standardised framework for delivering high-quality images and metadata, allowing museums, libraries, and archives to share, compare, and display digital images using common APIs
 
 ### REST APIs
 REST (Representational State Transfer) is a popular architectural style for web services. A REST API is an interface that uses standard HTTP protocols (the same that power the web) to allow clients to retrieve or manipulate data. In practice, this means the API exposes one or more endpoints – specific URLs that represent data resources – and clients make HTTP requests (like GET or POST requests) to those endpoints.
@@ -222,6 +222,7 @@ Postman
 Swagger/OpenAPI
  – Tools for designing and documenting APIs
  - [Swagger / OpenAPI](https://swagger.io/)
+
 
 
 
