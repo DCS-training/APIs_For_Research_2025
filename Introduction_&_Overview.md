@@ -183,11 +183,11 @@ Smithsonian Open Access
 
 V&A Museum API
  – V&A museum collection data.
- - [V&A Museum API:](https://www.vam.ac.uk/info/open-data)
+ - [V&A Museum API:](https://developers.vam.ac.uk/)
 
 British Library Digital Collections
  – Digitized books, manuscripts, and images.
- - [British Library Digital Collections:](https://www.bl.uk/collection-guides/digital-collections)
+ - [British Library Digital Collections:][(https://bl.iro.bl.uk/collections/64e3804a-788a-4c4b-962c-ae180d955455?locale=en)
 
 ## Research Tools
 
@@ -222,6 +222,7 @@ Postman
 Swagger/OpenAPI
  – Tools for designing and documenting APIs
  - [Swagger / OpenAPI](https://swagger.io/)
+
 
 
 
